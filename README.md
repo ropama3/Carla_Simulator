@@ -2,7 +2,7 @@
 
 In this script, we will explore how to create the code for autonomous driving of a vehicle in Carla Simulator. The goal is to guide the vehicle along a predefined lane, detect traffic lights and signs, and introduce weather changes within the simulator.
 
-![Carla](Images/carla.png)
+![Carla](Images/carla.jpg)
 
 ## Part 0
 
