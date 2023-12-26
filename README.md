@@ -17,7 +17,6 @@ Run the 'generate_traffic.py' script to ensure proper installation and functiona
 
 Run the cripts nº 5, 6a and 6b to understand Carla.
 
-![Script 5](Images/foto5_2.png)
 ![Script 6b](Images/foto6b.png)
 
 ## Part 2
@@ -51,3 +50,4 @@ Develop code to detect traffic signals and adjust the vehicle's behavior accordi
 ## Final Part
 
 Execute the script 'Autonomous Driving' to implement autonomous driving while detecting traffic lights and signals.
+![Script 5](Images/foto5_2.png)
