@@ -14,11 +14,15 @@ Run the 'generate_traffic.py' script to ensure proper installation and functiona
 ##Part 3
 
 Run the cripts nº 5, 6a and 6b to understand Carla.
+
 ![Script 5](Images/foto5_2.png)
+![Script 6b](Images/foto6b.png)
 
 ## Part 2
 
 Learn how to instruct the simulator to drive straight (Script No. 7).
+
+![Script 7](Images/foto7.png)
 
 ## Part 3
 
