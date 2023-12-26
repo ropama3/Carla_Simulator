@@ -11,6 +11,11 @@ In this script, we will explore how to create the code for autonomous driving of
 
 Run the 'generate_traffic.py' script to ensure proper installation and functionality.
 
+##Part 3
+
+Run the cripts nº 5, 6a and 6b to understand Carla.
+![Script 5](images/foto5_2.jpg)
+
 ## Part 2
 
 Learn how to instruct the simulator to drive straight (Script No. 7).
