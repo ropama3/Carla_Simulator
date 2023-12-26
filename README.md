@@ -14,7 +14,7 @@ Run the 'generate_traffic.py' script to ensure proper installation and functiona
 ##Part 3
 
 Run the cripts nº 5, 6a and 6b to understand Carla.
-![Script 5](images/foto5_2.jpg)
+![Script 5](Images/foto5_2.png)
 
 ## Part 2
 
