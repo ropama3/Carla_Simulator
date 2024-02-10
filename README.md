@@ -48,7 +48,7 @@ In the first script (Carla_Simulator/notebooks/1_introduction.ipynb), we will se
 
 To understand how Carla works, we are going to run two scripts. In the first one (Carla_Simulator/notebooks/2_tests_one_vehicle.ipynb), we will explore how to turn on the autopilot in one vehicle. In the second one (Carla_Simulator/notebooks/3_tests_two_vehicles.ipynb), we will learn how to create two vehicles simultaneously.
 
- <img src="Images/foto6bpng" height="220">
+ <img src="Images/foto6b.png" height="220">
 
 ## Part 2
 
