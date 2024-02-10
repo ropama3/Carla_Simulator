@@ -15,19 +15,33 @@ We will proceed to create an environment in Anaconda to have all the libraries a
 1. Through the link https://docs.anaconda.com/free/anaconda/install/windows/, we will install Anaconda. Choose the package that best suits your device.
 2. Once we have Anaconda installed, we proceed to open it. We go to the 'Environments' tab and click on 'Create'. We assign a name to our environment and select Python version 3.7.
    
-   ![Carla](Images/1ana.png)
+   ![Anaconda](Images/1ana.png)
 3. Next, we will open Anaconda Prompt and activate the created environment to install all the libraries specified in notebooks/requirements.txt.
    
-   ![Carla](Images/2ana.png)
+   ![Anaconda](Images/2ana.png)
 4. Finally, in Anaconda's Home, we will select our environment and install Jupyter and Spyder to be able to access the notebooks and scripts.
    
-   ![Carla](Images/3ana.png)
+   ![Anaconda](Images/3ana.png)
 
-## Part 1
+## Introduction
 
-Run the 'generate_traffic.py' script to ensure proper installation and functionality.
+#### Carla test
+Before running any code, we need to have Carla running.
+To run it, we will need to open the system prompt. First, we will go to the folder where we have CarlaUE4.exe and execute it. Carla may take a moment to open.
 
-##Part 3
+   ![Introduction](Images/1carla.png)
+   ![Introduction](Images/2carla.png)
+We are going to run the script ".\CARLA_0.9.14\WindowsNoEditor\PythonAPI\examples\generate_traffic.py" to verify that everything is working correctly
+
+   ![Introduction](Images/3carla.png)
+   
+#### First script 
+
+In the first script (Carla_Simulator/notebooks/1_introduction.ipynb), we will see how to access the Carla world, create a car, a sensor, and save photos taken by the sensor.
+
+
+
+## Part 3
 
 Run the cripts nº 5, 6a and 6b to understand Carla.
 
