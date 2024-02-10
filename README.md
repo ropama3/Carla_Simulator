@@ -44,11 +44,11 @@ In the first script (Carla_Simulator/notebooks/1_introduction.ipynb), we will se
 
 
 
-## Part 3
+## Tests with vehicles
 
-Run the cripts nº 5, 6a and 6b to understand Carla.
+To understand how Carla works, we are going to run two scripts. In the first one (Carla_Simulator/notebooks/2_tests_one_vehicle.ipynb), we will explore how to turn on the autopilot in one vehicle. In the second one (Carla_Simulator/notebooks/3_tests_two_vehicles.ipynb), we will learn how to create two vehicles simultaneously.
 
-![Script 6b](Images/foto6b.png)
+ <img src="Images/foto6bpng" height="220">
 
 ## Part 2
 
