@@ -17,10 +17,10 @@ We will proceed to create an environment in Anaconda to have all the libraries a
 1. Through the link https://docs.anaconda.com/free/anaconda/install/windows/, we will install Anaconda. Choose the package that best suits your device.
 2. Once we have Anaconda installed, we proceed to open it. We go to the 'Environments' tab and click on 'Create'. We assign a name to our environment and select Python version 3.7.
    
-   <img src="Images/1ana.png" height="320">
+   <img src="Images/1ana.png" height="420">
 4. Next, we will open Anaconda Prompt and activate the created environment to install all the libraries specified in notebooks/requirements.txt.
    
-   <img src="Images/2ana.png" height="120">
+   <img src="Images/2ana.png" height="70">
 6. Finally, in Anaconda's Home, we will select our environment and install Jupyter and Spyder to be able to access the notebooks and scripts.
    
    <img src="Images/3ana.png" height="320">
@@ -31,12 +31,12 @@ We will proceed to create an environment in Anaconda to have all the libraries a
 Before running any code, we need to have Carla running.
 To run it, we will need to open the system prompt. First, we will go to the folder where we have CarlaUE4.exe and execute it. Carla may take a moment to open.
 
-   ![Introduction](Images/1carla.png)
-   ![Introduction](Images/2carla.png)
+   <img src="Images/1carla.png" height="70">
+   <img src="Images/2carla.png" height="420">
    
 We are going to run the script ".\CARLA_0.9.14\WindowsNoEditor\PythonAPI\examples\generate_traffic.py" to verify that everything is working correctly
 
-   ![Introduction](Images/3carla.png)
+   <img src="Images/3carla.png" height="70">
    
 #### First script 
 
