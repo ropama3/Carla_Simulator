@@ -17,13 +17,13 @@ We will proceed to create an environment in Anaconda to have all the libraries a
 1. Through the link https://docs.anaconda.com/free/anaconda/install/windows/, we will install Anaconda. Choose the package that best suits your device.
 2. Once we have Anaconda installed, we proceed to open it. We go to the 'Environments' tab and click on 'Create'. We assign a name to our environment and select Python version 3.7.
    
-   <img src="Images/1ana.png" width="120" height="320">
+   <img src="Images/1ana.png" height="320">
 4. Next, we will open Anaconda Prompt and activate the created environment to install all the libraries specified in notebooks/requirements.txt.
    
-   <img src="Images/2ana.png" width="220" height="220">
+   <img src="Images/2ana.png" height="120">
 6. Finally, in Anaconda's Home, we will select our environment and install Jupyter and Spyder to be able to access the notebooks and scripts.
    
-   <img src="Images/3ana.png" width="220" height="320">
+   <img src="Images/3ana.png" height="320">
 
 ## Introduction
 
