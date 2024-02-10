@@ -15,7 +15,7 @@ We will proceed to create an environment in Anaconda to have all the libraries a
 1. Through the link https://docs.anaconda.com/free/anaconda/install/windows/, we will install Anaconda. Choose the package that best suits your device.
 2. Once we have Anaconda installed, we proceed to open it. We go to the 'Environments' tab and click on 'Create'. We assign a name to our environment and select Python version 3.7.
    
-   ![Anaconda](Images/1ana.png){:height="50%" width="50%"}
+   ![Anaconda](Images/1ana.png)
 3. Next, we will open Anaconda Prompt and activate the created environment to install all the libraries specified in notebooks/requirements.txt.
    
    ![Anaconda](Images/2ana.png)
