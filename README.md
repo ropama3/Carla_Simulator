@@ -2,7 +2,7 @@
 
 In this repository, we will go step by step on how to create an autopilot for a car in Carla Simulator. We'll break down each step to help you understand the process. The goal is to guide the vehicle along a predefined lane, detect traffic lights and signs, and introduce weather changes within the simulator.
 
-![Carla](Images/carla.jpg){ width=50% }
+![Carla](Images/carla.jpg){:height="36px" width="36px"}
 
 ## Pre-requisites
 #### Install Carla.
@@ -15,7 +15,7 @@ We will proceed to create an environment in Anaconda to have all the libraries a
 1. Through the link https://docs.anaconda.com/free/anaconda/install/windows/, we will install Anaconda. Choose the package that best suits your device.
 2. Once we have Anaconda installed, we proceed to open it. We go to the 'Environments' tab and click on 'Create'. We assign a name to our environment and select Python version 3.7.
    
-   ![Anaconda](Images/1ana.png)
+   ![Anaconda](Images/1ana.png){:height="36px" width="36px"}
 3. Next, we will open Anaconda Prompt and activate the created environment to install all the libraries specified in notebooks/requirements.txt.
    
    ![Anaconda](Images/2ana.png)
