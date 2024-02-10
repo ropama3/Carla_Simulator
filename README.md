@@ -50,35 +50,45 @@ To understand how Carla works, we are going to run two scripts. In the first one
 
  <img src="Images/foto6b.png" height="220">
 
-## Part 2
+## Driving straight
 
-Learn how to instruct the simulator to drive straight (Script No. 7).
+Next, we will learn how to drive completely straight without leaving the lane and use a sensor to observe the car's route (Carla_Simulator/notebooks/4_driving_straight.ipynb).
 
-![Script 7](Images/foto7.png)
+<img src="Images/foto7.png" height="220">
 
-## Part 3
+## Waypoint introduction
 
-Understand how to command the simulator to move "x" meters forward and stop (Script No. 9).
+In the script Carla_Simulator/notebooks/5_waypoint_introduction.ipynb, we will explore how waypoints work in Carla and how to navigate from one to another. To do this, we will implement a function that calculates the angle to go from one point to the next.
 
-## Part 4
+## Lane driving
 
-Implement the functionality from Part 3 without stopping (Script No. 10). Additionally, change the weather (Script No. 10a) and apply the code in a different town (Script No. 10b).
+We are going to implement waypoint functionality to make the car follow the lane (Carla_Simulator/notebooks/6_lane_driving.ipynb). Also in Carla_Simulator/notebooks/7_weather_change.ipynb we are going to understand how to change the weather meanwhile the car follows the lane. Finally, we will see the implementation of lane driving in a diferent Town (Carla_Simulator/notebooks/8_lane_driving_Town01.ipynb).
 
-## Part 5
+<img src="Images/4carla.png" height="200">
 
-Create code to change lanes within the same road using "r" for right and "l" for left (Script No. 11).
+## Lane change 
 
-## Part 6
+In Carla_Simulator/notebooks/9_lane_change we will reate code to change lanes within the same road using "r" for right and "l" for left.
 
-Implement a mechanism for the vehicle to stop at red traffic lights and proceed when they turn green (Script No. 12).
+## Traffic lights 
 
-## Part 7
+We will implement a mechanism for the vehicle to stop at red traffic lights and proceed when they turn green (Carla_Simulator/notebooks/10_traffic_lights.ipynb).
 
-Develop code to detect traffic signals and adjust the vehicle's behavior accordingly (Script No. 13). Additionally, create a model for classifying traffic signals (Script No. 13a, open with Colab).
+<img src="Images/5carla.png" height="200">
 
-![Script 13a](Images/60b.png)
+## Signs
+
+In the script (Carla_Simulator/notebooks/11_traffic_signsevelop.ipynb) we are going to devolp code to detect traffic signals and adjust the vehicle's behavior accordingly. 
+Additionally, we will create a model for classifying traffic signals (Carla_Simulator/notebooks/prediction/12_algorithm1_collab.ipynb). It is recommend it to open the sript with collab.
+
+<img src="Images/60b.png" height="220">
+
+## App
+ We are going to create an app to select the desired values in our simulator like the color of the car, the model or the weather (Carla_Simulator/src/12_app.py).
+
+<img src="Images/6carla.png" height="400">
 
 ## Final Part
 
-Execute the script 'Autonomous Driving' to implement autonomous driving while detecting traffic lights and signals.
-![Script 5](Images/foto5_2.png)
+To implement everything that we learn we are going to create a script that allows the vehicle to have an autonomous driving (Carla_Simulator/notebooks/Autonomous_driving.ipynb) (Carla_Simulator/src/Autonomous_driving.py)
+
