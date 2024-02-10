@@ -20,7 +20,7 @@ We will proceed to create an environment in Anaconda to have all the libraries a
    <img src="Images/1ana.png" height="420">
 4. Next, we will open Anaconda Prompt and activate the created environment to install all the libraries specified in notebooks/requirements.txt.
    
-   <img src="Images/2ana.png" height="70">
+   <img src="Images/2ana.png" height="100">
 6. Finally, in Anaconda's Home, we will select our environment and install Jupyter and Spyder to be able to access the notebooks and scripts.
    
    <img src="Images/3ana.png" height="320">
