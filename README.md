@@ -2,7 +2,7 @@
 
 In this repository, we will go step by step on how to create an autopilot for a car in Carla Simulator. We'll break down each step to help you understand the process. The goal is to guide the vehicle along a predefined lane, detect traffic lights and signs, and introduce weather changes within the simulator.
 
-![Carla](Images/carla.jpg)
+![Carla|100](Images/carla.jpg)
 
 ## Pre-requisites
 #### Install Carla.
