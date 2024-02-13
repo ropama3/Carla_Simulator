@@ -75,7 +75,7 @@ def open_link(event):
 root = tk.Tk()
 root.title('Window for Carla Simulator App')
 root.geometry('500x600+50+50')
-root.iconbitmap('Images/carla_.ico')
+root.iconbitmap('Images/carla.ico')
 root.configure(bg='#cfe2ff')
 
 style = ttk.Style()
